@@ -46,4 +46,4 @@ Coding Ninjas:
 - Medium: 0
 - Hard: 0
 
-Total Problems Solved: 0
+Total Problems Solved: 1
